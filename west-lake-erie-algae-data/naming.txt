@@ -1,0 +1,15 @@
+WE# is the ID of the bouy
+
+CHLA is Chlorophyll A in micrograms/Liter
+PMC is Particulate Microcystins in micrograms/Liter
+DMC is Dissolved Microcystins in micrograms/Liter
+Temp is water temperature in degrees C
+PC is Phycocyanin which doesn't have a unit for some reason
+Secchi is the Secchi depth in meters
+HandTemp is water temperature at the surface in degrees C
+MC is Microcystins (unspecified particulate or dissolved) in micrograms/Liter
+
+Scum is at the top of the water
+Surface is .75m deep  :-/
+Bottom is 1m from the bottom of the lake
+
